@@ -1,0 +1,84 @@
+2021-03-05 11:50:53,879 - MySqlUtils - MainThread - INFO - 数据库连接sucessfully!
+2021-03-05 11:50:53,882 - CommonUtils - MainThread - INFO - 第1张彩票号码为 -> 红球：[3, 15, 21, 23, 32, 33] 蓝球：[15]
+2021-03-05 11:50:53,882 - MySqlUtils - MainThread - INFO - exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[3, 15, 21, 23, 32, 33]', '[15]', '2021-03-05', '2021-03-05 11:50:52')
+2021-03-05 11:50:54,920 - MySqlUtils - MainThread - INFO - 1条记录插入成功。
+2021-03-05 11:50:54,920 - CommonUtils - MainThread - INFO - 第2张彩票号码为 -> 红球：[8, 14, 19, 22, 26, 32] 蓝球：[9]
+2021-03-05 11:50:54,921 - MySqlUtils - MainThread - INFO - exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[8, 14, 19, 22, 26, 32]', '[9]', '2021-03-05', '2021-03-05 11:50:52')
+2021-03-05 11:50:55,889 - MySqlUtils - MainThread - INFO - 1条记录插入成功。
+2021-03-05 11:50:55,889 - CommonUtils - MainThread - INFO - 第3张彩票号码为 -> 红球：[4, 5, 26, 27, 30, 31] 蓝球：[1]
+2021-03-05 11:50:55,890 - MySqlUtils - MainThread - INFO - exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[4, 5, 26, 27, 30, 31]', '[1]', '2021-03-05', '2021-03-05 11:50:52')
+2021-03-05 11:50:56,839 - MySqlUtils - MainThread - INFO - 1条记录插入成功。
+2021-03-05 11:50:56,839 - CommonUtils - MainThread - INFO - 第4张彩票号码为 -> 红球：[9, 12, 15, 17, 28, 30] 蓝球：[4]
+2021-03-05 11:50:56,840 - MySqlUtils - MainThread - INFO - exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[9, 12, 15, 17, 28, 30]', '[4]', '2021-03-05', '2021-03-05 11:50:52')
+2021-03-05 11:50:57,801 - MySqlUtils - MainThread - INFO - 1条记录插入成功。
+2021-03-05 11:50:58,143 - CommonUtils - MainThread - INFO - 邮件发送成功
+[2021-03-05 11:51:55,304] [MySqlUtils] [MainThread] [INFO] 数据库连接sucessfully!
+[2021-03-05 11:51:55,307] [CommonUtils] [MainThread] [INFO] 第1张彩票号码为 -> 红球：[9, 10, 16, 19, 27, 33] 蓝球：[12]
+[2021-03-05 11:51:55,308] [MySqlUtils] [MainThread] [INFO] exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[9, 10, 16, 19, 27, 33]', '[12]', '2021-03-05', '2021-03-05 11:51:53')
+[2021-03-05 11:51:56,283] [MySqlUtils] [MainThread] [INFO] 1条记录插入成功。
+[2021-03-05 11:51:56,283] [CommonUtils] [MainThread] [INFO] 第2张彩票号码为 -> 红球：[3, 7, 16, 23, 25, 28] 蓝球：[8]
+[2021-03-05 11:51:56,284] [MySqlUtils] [MainThread] [INFO] exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[3, 7, 16, 23, 25, 28]', '[8]', '2021-03-05', '2021-03-05 11:51:53')
+[2021-03-05 11:51:57,243] [MySqlUtils] [MainThread] [INFO] 1条记录插入成功。
+[2021-03-05 11:51:57,244] [CommonUtils] [MainThread] [INFO] 第3张彩票号码为 -> 红球：[11, 13, 19, 22, 27, 30] 蓝球：[7]
+[2021-03-05 11:51:57,245] [MySqlUtils] [MainThread] [INFO] exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[11, 13, 19, 22, 27, 30]', '[7]', '2021-03-05', '2021-03-05 11:51:53')
+[2021-03-05 11:51:58,203] [MySqlUtils] [MainThread] [INFO] 1条记录插入成功。
+[2021-03-05 11:51:58,204] [CommonUtils] [MainThread] [INFO] 第4张彩票号码为 -> 红球：[4, 5, 11, 17, 24, 26] 蓝球：[6]
+[2021-03-05 11:51:58,204] [MySqlUtils] [MainThread] [INFO] exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[4, 5, 11, 17, 24, 26]', '[6]', '2021-03-05', '2021-03-05 11:51:53')
+[2021-03-05 11:51:59,164] [MySqlUtils] [MainThread] [INFO] 1条记录插入成功。
+[2021-03-05 11:51:59,598] [CommonUtils] [MainThread] [INFO] 邮件发送成功
+2021-03-05 11:52:31,043 MySqlUtils MainThread INFO 数据库连接sucessfully!
+2021-03-05 11:52:31,046 CommonUtils MainThread INFO 第1张彩票号码为 -> 红球：[3, 9, 11, 14, 19, 29] 蓝球：[3]
+2021-03-05 11:52:31,046 MySqlUtils MainThread INFO exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[3, 9, 11, 14, 19, 29]', '[3]', '2021-03-05', '2021-03-05 11:52:29')
+2021-03-05 11:52:32,002 MySqlUtils MainThread INFO 1条记录插入成功。
+2021-03-05 11:52:32,003 CommonUtils MainThread INFO 第2张彩票号码为 -> 红球：[14, 15, 17, 19, 22, 27] 蓝球：[11]
+2021-03-05 11:52:32,003 MySqlUtils MainThread INFO exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[14, 15, 17, 19, 22, 27]', '[11]', '2021-03-05', '2021-03-05 11:52:29')
+2021-03-05 11:52:33,082 MySqlUtils MainThread INFO 1条记录插入成功。
+2021-03-05 11:52:33,083 CommonUtils MainThread INFO 第3张彩票号码为 -> 红球：[2, 3, 8, 11, 14, 15] 蓝球：[14]
+2021-03-05 11:52:33,083 MySqlUtils MainThread INFO exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[2, 3, 8, 11, 14, 15]', '[14]', '2021-03-05', '2021-03-05 11:52:29')
+2021-03-05 11:52:34,044 MySqlUtils MainThread INFO 1条记录插入成功。
+2021-03-05 11:52:34,044 CommonUtils MainThread INFO 第4张彩票号码为 -> 红球：[2, 5, 9, 16, 19, 30] 蓝球：[12]
+2021-03-05 11:52:34,045 MySqlUtils MainThread INFO exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[2, 5, 9, 16, 19, 30]', '[12]', '2021-03-05', '2021-03-05 11:52:29')
+2021-03-05 11:52:35,002 MySqlUtils MainThread INFO 1条记录插入成功。
+2021-03-05 11:52:35,276 CommonUtils MainThread INFO 邮件发送成功
+[2021-03-05 11:52:48,766] [MySqlUtils] [MainThread] [INFO] 数据库连接sucessfully!
+[2021-03-05 11:52:48,769] [CommonUtils] [MainThread] [INFO] 第1张彩票号码为 -> 红球：[15, 17, 21, 22, 24, 31] 蓝球：[16]
+[2021-03-05 11:52:48,769] [MySqlUtils] [MainThread] [INFO] exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[15, 17, 21, 22, 24, 31]', '[16]', '2021-03-05', '2021-03-05 11:52:47')
+[2021-03-05 11:52:49,737] [MySqlUtils] [MainThread] [INFO] 1条记录插入成功。
+[2021-03-05 11:52:49,737] [CommonUtils] [MainThread] [INFO] 第2张彩票号码为 -> 红球：[3, 9, 16, 23, 31, 33] 蓝球：[13]
+[2021-03-05 11:52:49,738] [MySqlUtils] [MainThread] [INFO] exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[3, 9, 16, 23, 31, 33]', '[13]', '2021-03-05', '2021-03-05 11:52:47')
+[2021-03-05 11:52:50,706] [MySqlUtils] [MainThread] [INFO] 1条记录插入成功。
+[2021-03-05 11:52:50,707] [CommonUtils] [MainThread] [INFO] 第3张彩票号码为 -> 红球：[3, 7, 16, 22, 24, 30] 蓝球：[10]
+[2021-03-05 11:52:50,707] [MySqlUtils] [MainThread] [INFO] exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[3, 7, 16, 22, 24, 30]', '[10]', '2021-03-05', '2021-03-05 11:52:47')
+[2021-03-05 11:52:51,694] [MySqlUtils] [MainThread] [INFO] 1条记录插入成功。
+[2021-03-05 11:52:51,694] [CommonUtils] [MainThread] [INFO] 第4张彩票号码为 -> 红球：[5, 11, 15, 17, 19, 28] 蓝球：[7]
+[2021-03-05 11:52:51,695] [MySqlUtils] [MainThread] [INFO] exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[5, 11, 15, 17, 19, 28]', '[7]', '2021-03-05', '2021-03-05 11:52:47')
+[2021-03-05 11:52:52,706] [MySqlUtils] [MainThread] [INFO] 1条记录插入成功。
+[2021-03-05 11:52:52,979] [CommonUtils] [MainThread] [INFO] 邮件发送成功
+[2021-03-05 11:53:12,375] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-05 11:53:12,377] [CommonUtils] [MainThread] [INFO]: 第1张彩票号码为 -> 红球：[6, 15, 16, 21, 26, 30] 蓝球：[4]
+[2021-03-05 11:53:12,378] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[6, 15, 16, 21, 26, 30]', '[4]', '2021-03-05', '2021-03-05 11:53:11')
+[2021-03-05 11:53:13,335] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-05 11:53:13,335] [CommonUtils] [MainThread] [INFO]: 第2张彩票号码为 -> 红球：[3, 8, 10, 14, 27, 29] 蓝球：[7]
+[2021-03-05 11:53:13,336] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[3, 8, 10, 14, 27, 29]', '[7]', '2021-03-05', '2021-03-05 11:53:11')
+[2021-03-05 11:53:14,285] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-05 11:53:14,286] [CommonUtils] [MainThread] [INFO]: 第3张彩票号码为 -> 红球：[1, 3, 10, 11, 14, 15] 蓝球：[9]
+[2021-03-05 11:53:14,286] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[1, 3, 10, 11, 14, 15]', '[9]', '2021-03-05', '2021-03-05 11:53:11')
+[2021-03-05 11:53:15,245] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-05 11:53:15,246] [CommonUtils] [MainThread] [INFO]: 第4张彩票号码为 -> 红球：[7, 14, 19, 27, 28, 31] 蓝球：[3]
+[2021-03-05 11:53:15,246] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[7, 14, 19, 27, 28, 31]', '[3]', '2021-03-05', '2021-03-05 11:53:11')
+[2021-03-05 11:53:16,215] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-05 11:53:16,990] [CommonUtils] [MainThread] [INFO]: 邮件发送成功
+[2021-03-05 12:06:21,095] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-05 12:06:21,099] [CommonUtils] [MainThread] [INFO]: 第1张彩票号码为 -> 红球：[2, 3, 6, 14, 15, 33] 蓝球：[3]
+[2021-03-05 12:06:21,099] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[2, 3, 6, 14, 15, 33]', '[3]', '2021-03-05', '2021-03-05 12:06:14')
+[2021-03-05 12:06:24,518] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-05 12:06:24,519] [CommonUtils] [MainThread] [INFO]: 第2张彩票号码为 -> 红球：[3, 5, 17, 20, 22, 25] 蓝球：[9]
+[2021-03-05 12:06:24,519] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[3, 5, 17, 20, 22, 25]', '[9]', '2021-03-05', '2021-03-05 12:06:14')
+[2021-03-05 12:06:28,491] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-05 12:06:28,492] [CommonUtils] [MainThread] [INFO]: 第3张彩票号码为 -> 红球：[9, 22, 26, 29, 30, 31] 蓝球：[7]
+[2021-03-05 12:06:28,492] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[9, 22, 26, 29, 30, 31]', '[7]', '2021-03-05', '2021-03-05 12:06:14')
+[2021-03-05 12:06:31,759] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-05 12:06:31,760] [CommonUtils] [MainThread] [INFO]: 第4张彩票号码为 -> 红球：[4, 5, 8, 12, 29, 30] 蓝球：[3]
+[2021-03-05 12:06:31,760] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball (red_num, blue_num, periods, generate_time) values(%s, %s, %s, %s), val is: ('[4, 5, 8, 12, 29, 30]', '[3]', '2021-03-05', '2021-03-05 12:06:14')
+[2021-03-05 12:06:36,007] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-05 12:06:37,091] [CommonUtils] [MainThread] [INFO]: 邮件发送成功

@@ -1,0 +1,1053 @@
+[2021-03-09 09:25:59,175] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 09:35:35,239] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 09:35:35,241] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 09:35:35,397] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 09:35:35,397] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 09:35:35,397] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', ['02', '21', '22', '23', '27', '28'], ['11'], '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 09:35:34')
+[2021-03-09 09:35:35,880] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python '_elementunicoderesult' cannot be converted to a MySQL type
+[2021-03-09 09:37:12,322] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 09:37:12,323] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 09:37:12,482] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 09:37:12,482] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 09:37:12,482] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', ['02', '21', '22', '23', '27', '28'], ['11'], '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 09:37:11')
+[2021-03-09 09:37:12,982] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type
+[2021-03-09 09:38:07,218] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 09:38:07,219] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 09:38:07,374] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 09:38:07,375] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 09:38:07,375] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', ['02', '21', '22', '23', '27', '28'], ['11'], '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 09:38:05')
+[2021-03-09 09:38:07,857] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'list' cannot be converted to a MySQL type
+[2021-03-09 09:38:59,218] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 09:38:59,220] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 09:38:59,367] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 09:38:59,367] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 09:38:59,367] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', "['02', '21', '22', '23', '27', '28']", "['11']", '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 09:38:58')
+[2021-03-09 09:39:00,518] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 09:40:56,852] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 09:40:56,853] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 09:40:57,014] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 09:40:57,015] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 09:40:57,015] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', "['02', '21', '22', '23', '27', '28']", "['11']", '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 09:40:55')
+[2021-03-09 09:40:57,971] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 09:41:45,022] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 09:41:45,022] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 09:41:45,180] [CommonUtils] [MainThread] [INFO]: 21023	[2, 21, 22, 23, 27, 28]	[11]	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 09:41:45,180] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 09:41:45,180] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', '[2, 21, 22, 23, 27, 28]', '[11]', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 09:41:43')
+[2021-03-09 09:41:46,131] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 09:52:48,930] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 09:52:48,932] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 09:52:49,702] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'[7, 8, 14, 24, 25, 31]'), bytearray(b'[11]'))
+[2021-03-09 09:52:49,702] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'[6, 7, 23, 24, 26, 32]'), bytearray(b'[4]'))
+[2021-03-09 09:52:49,702] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'[17, 23, 24, 25, 26, 28]'), bytearray(b'[12]'))
+[2021-03-09 09:52:49,702] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'[5, 6, 7, 24, 25, 26]'), bytearray(b'[3]'))
+[2021-03-09 09:52:49,703] [CommonUtils] [MainThread] [INFO]: [(64, bytearray(b'[7, 8, 14, 24, 25, 31]'), bytearray(b'[11]')), (63, bytearray(b'[6, 7, 23, 24, 26, 32]'), bytearray(b'[4]')), (62, bytearray(b'[17, 23, 24, 25, 26, 28]'), bytearray(b'[12]')), (61, bytearray(b'[5, 6, 7, 24, 25, 26]'), bytearray(b'[3]'))]
+[2021-03-09 10:11:28,422] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:11:28,423] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:11:28,573] [CommonUtils] [MainThread] [INFO]: 21023	[2, 21, 22, 23, 27, 28]	[11]	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:11:28,573] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:12:01,594] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:12:01,594] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:12:01,760] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:12:01,760] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:12:01,760] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 10:12:00')
+[2021-03-09 10:12:02,714] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 10:20:10,183] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:20:10,191] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:20:10,429] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:20:10,431] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:20:10,432] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 10:20:09')
+[2021-03-09 10:20:11,382] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 10:20:11,384] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 10:20:12,115] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7, 8, 14, 24, 25, 31'), bytearray(b'11'))
+[2021-03-09 10:20:12,117] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6, 7, 23, 24, 26, 32'), bytearray(b'4'))
+[2021-03-09 10:20:12,118] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17, 23, 24, 25, 26, 28'), bytearray(b'12'))
+[2021-03-09 10:20:12,119] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5, 6, 7, 24, 25, 26'), bytearray(b'3'))
+[2021-03-09 10:27:40,002] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:27:40,004] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:27:40,173] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:27:40,173] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:27:40,173] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 10:27:38')
+[2021-03-09 10:27:41,150] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 10:27:41,151] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 10:27:41,881] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7, 8, 14, 24, 25, 31'), bytearray(b'11'))
+[2021-03-09 10:27:41,881] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6, 7, 23, 24, 26, 32'), bytearray(b'4'))
+[2021-03-09 10:27:41,882] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17, 23, 24, 25, 26, 28'), bytearray(b'12'))
+[2021-03-09 10:27:41,883] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5, 6, 7, 24, 25, 26'), bytearray(b'3'))
+[2021-03-09 10:27:41,884] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}
+[2021-03-09 10:27:41,884] [CommonUtils] [MainThread] [INFO]: 检查结果：63	0	set()	0	set()
+[2021-03-09 10:27:41,884] [CommonUtils] [MainThread] [INFO]: 检查结果：62	0	set()	0	set()
+[2021-03-09 10:27:41,885] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()
+[2021-03-09 10:28:10,673] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:28:10,674] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:28:10,832] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:28:10,832] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:28:10,832] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: ('21023', '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 10:28:09')
+[2021-03-09 10:28:11,794] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 10:28:11,795] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 10:28:12,524] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7, 8, 14, 24, 25, 31'), bytearray(b'11'))
+[2021-03-09 10:28:12,524] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6, 7, 23, 24, 26, 32'), bytearray(b'4'))
+[2021-03-09 10:28:12,524] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17, 23, 24, 25, 26, 28'), bytearray(b'12'))
+[2021-03-09 10:28:12,525] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5, 6, 7, 24, 25, 26'), bytearray(b'3'))
+[2021-03-09 10:28:12,525] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}
+[2021-03-09 10:28:12,525] [CommonUtils] [MainThread] [INFO]: 检查结果：63	0	set()	0	set()
+[2021-03-09 10:28:12,526] [CommonUtils] [MainThread] [INFO]: 检查结果：62	0	set()	0	set()
+[2021-03-09 10:28:12,526] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()
+[2021-03-09 10:28:43,476] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:28:43,478] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:28:43,631] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:28:43,632] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:28:43,632] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 10;
+[2021-03-09 10:28:44,367] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7, 8, 14, 24, 25, 31'), bytearray(b'11'))
+[2021-03-09 10:28:44,367] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6, 7, 23, 24, 26, 32'), bytearray(b'4'))
+[2021-03-09 10:28:44,368] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17, 23, 24, 25, 26, 28'), bytearray(b'12'))
+[2021-03-09 10:28:44,368] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5, 6, 7, 24, 25, 26'), bytearray(b'3'))
+[2021-03-09 10:28:44,368] [MySqlUtils] [MainThread] [INFO]: (60, bytearray(b'3, 4, 13, 14, 26, 28'), bytearray(b'3'))
+[2021-03-09 10:28:44,369] [MySqlUtils] [MainThread] [INFO]: (59, bytearray(b'8, 18, 27, 29, 31, 33'), bytearray(b'8'))
+[2021-03-09 10:28:44,369] [MySqlUtils] [MainThread] [INFO]: (58, bytearray(b'4, 7, 14, 26, 27, 31'), bytearray(b'2'))
+[2021-03-09 10:28:44,369] [MySqlUtils] [MainThread] [INFO]: (57, bytearray(b'8, 9, 11, 14, 25, 29'), bytearray(b'10'))
+[2021-03-09 10:28:44,369] [MySqlUtils] [MainThread] [INFO]: (56, bytearray(b'2, 11, 19, 22, 25, 31'), bytearray(b'7'))
+[2021-03-09 10:28:44,369] [MySqlUtils] [MainThread] [INFO]: (55, bytearray(b'1, 14, 16, 17, 22, 33'), bytearray(b'8'))
+[2021-03-09 10:28:44,369] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}
+[2021-03-09 10:28:44,370] [CommonUtils] [MainThread] [INFO]: 检查结果：63	0	set()	0	set()
+[2021-03-09 10:28:44,370] [CommonUtils] [MainThread] [INFO]: 检查结果：62	0	set()	0	set()
+[2021-03-09 10:28:44,370] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()
+[2021-03-09 10:28:44,370] [CommonUtils] [MainThread] [INFO]: 检查结果：60	0	set()	0	set()
+[2021-03-09 10:28:44,370] [CommonUtils] [MainThread] [INFO]: 检查结果：59	0	set()	0	set()
+[2021-03-09 10:28:44,371] [CommonUtils] [MainThread] [INFO]: 检查结果：58	0	set()	0	set()
+[2021-03-09 10:28:44,371] [CommonUtils] [MainThread] [INFO]: 检查结果：57	0	set()	0	set()
+[2021-03-09 10:28:44,371] [CommonUtils] [MainThread] [INFO]: 检查结果：56	0	set()	0	set()
+[2021-03-09 10:28:44,371] [CommonUtils] [MainThread] [INFO]: 检查结果：55	0	set()	0	set()
+[2021-03-09 10:29:02,082] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:29:02,083] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:29:02,230] [CommonUtils] [MainThread] [INFO]: 21023	['02', '21', '22', '23', '27', '28']	['11']	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:29:02,231] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:29:02,231] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 20;
+[2021-03-09 10:29:02,971] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7, 8, 14, 24, 25, 31'), bytearray(b'11'))
+[2021-03-09 10:29:02,972] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6, 7, 23, 24, 26, 32'), bytearray(b'4'))
+[2021-03-09 10:29:02,972] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17, 23, 24, 25, 26, 28'), bytearray(b'12'))
+[2021-03-09 10:29:02,972] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5, 6, 7, 24, 25, 26'), bytearray(b'3'))
+[2021-03-09 10:29:02,973] [MySqlUtils] [MainThread] [INFO]: (60, bytearray(b'3, 4, 13, 14, 26, 28'), bytearray(b'3'))
+[2021-03-09 10:29:02,973] [MySqlUtils] [MainThread] [INFO]: (59, bytearray(b'8, 18, 27, 29, 31, 33'), bytearray(b'8'))
+[2021-03-09 10:29:02,974] [MySqlUtils] [MainThread] [INFO]: (58, bytearray(b'4, 7, 14, 26, 27, 31'), bytearray(b'2'))
+[2021-03-09 10:29:02,974] [MySqlUtils] [MainThread] [INFO]: (57, bytearray(b'8, 9, 11, 14, 25, 29'), bytearray(b'10'))
+[2021-03-09 10:29:02,974] [MySqlUtils] [MainThread] [INFO]: (56, bytearray(b'2, 11, 19, 22, 25, 31'), bytearray(b'7'))
+[2021-03-09 10:29:02,976] [MySqlUtils] [MainThread] [INFO]: (55, bytearray(b'1, 14, 16, 17, 22, 33'), bytearray(b'8'))
+[2021-03-09 10:29:02,976] [MySqlUtils] [MainThread] [INFO]: (54, bytearray(b'4, 8, 15, 17, 19, 29'), bytearray(b'8'))
+[2021-03-09 10:29:02,977] [MySqlUtils] [MainThread] [INFO]: (53, bytearray(b'4, 6, 14, 18, 28, 29'), bytearray(b'12'))
+[2021-03-09 10:29:02,977] [MySqlUtils] [MainThread] [INFO]: (52, bytearray(b'1, 4, 6, 10, 26, 33'), bytearray(b'1'))
+[2021-03-09 10:29:02,977] [MySqlUtils] [MainThread] [INFO]: (51, bytearray(b'1, 9, 13, 17, 18, 33'), bytearray(b'16'))
+[2021-03-09 10:29:02,977] [MySqlUtils] [MainThread] [INFO]: (50, bytearray(b'10, 14, 16, 20, 29, 33'), bytearray(b'8'))
+[2021-03-09 10:29:02,977] [MySqlUtils] [MainThread] [INFO]: (49, bytearray(b'1, 4, 16, 24, 26, 33'), bytearray(b'8'))
+[2021-03-09 10:29:02,978] [MySqlUtils] [MainThread] [INFO]: (48, bytearray(b'3, 6, 27, 28, 29, 31'), bytearray(b'16'))
+[2021-03-09 10:29:02,978] [MySqlUtils] [MainThread] [INFO]: (47, bytearray(b'7, 8, 18, 19, 20, 28'), bytearray(b'7'))
+[2021-03-09 10:29:02,978] [MySqlUtils] [MainThread] [INFO]: (46, bytearray(b'1, 7, 22, 24, 25, 32'), bytearray(b'8'))
+[2021-03-09 10:29:02,979] [MySqlUtils] [MainThread] [INFO]: (45, bytearray(b'1, 3, 12, 13, 25, 30'), bytearray(b'1'))
+[2021-03-09 10:29:02,979] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}
+[2021-03-09 10:29:02,980] [CommonUtils] [MainThread] [INFO]: 检查结果：63	0	set()	0	set()
+[2021-03-09 10:29:02,980] [CommonUtils] [MainThread] [INFO]: 检查结果：62	0	set()	0	set()
+[2021-03-09 10:29:02,980] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()
+[2021-03-09 10:29:02,980] [CommonUtils] [MainThread] [INFO]: 检查结果：60	0	set()	0	set()
+[2021-03-09 10:29:02,980] [CommonUtils] [MainThread] [INFO]: 检查结果：59	0	set()	0	set()
+[2021-03-09 10:29:02,981] [CommonUtils] [MainThread] [INFO]: 检查结果：58	0	set()	0	set()
+[2021-03-09 10:29:02,981] [CommonUtils] [MainThread] [INFO]: 检查结果：57	0	set()	0	set()
+[2021-03-09 10:29:02,981] [CommonUtils] [MainThread] [INFO]: 检查结果：56	0	set()	0	set()
+[2021-03-09 10:29:02,981] [CommonUtils] [MainThread] [INFO]: 检查结果：55	0	set()	0	set()
+[2021-03-09 10:29:02,981] [CommonUtils] [MainThread] [INFO]: 检查结果：54	0	set()	0	set()
+[2021-03-09 10:29:02,981] [CommonUtils] [MainThread] [INFO]: 检查结果：53	0	set()	0	set()
+[2021-03-09 10:29:02,982] [CommonUtils] [MainThread] [INFO]: 检查结果：52	0	set()	0	set()
+[2021-03-09 10:29:02,982] [CommonUtils] [MainThread] [INFO]: 检查结果：51	0	set()	0	set()
+[2021-03-09 10:29:02,982] [CommonUtils] [MainThread] [INFO]: 检查结果：50	0	set()	0	set()
+[2021-03-09 10:29:02,982] [CommonUtils] [MainThread] [INFO]: 检查结果：49	0	set()	0	set()
+[2021-03-09 10:29:02,982] [CommonUtils] [MainThread] [INFO]: 检查结果：48	0	set()	0	set()
+[2021-03-09 10:29:02,982] [CommonUtils] [MainThread] [INFO]: 检查结果：47	0	set()	0	set()
+[2021-03-09 10:29:02,982] [CommonUtils] [MainThread] [INFO]: 检查结果：46	0	set()	0	set()
+[2021-03-09 10:29:02,983] [CommonUtils] [MainThread] [INFO]: 检查结果：45	0	set()	0	set()
+[2021-03-09 10:31:47,826] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:31:47,828] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:31:47,973] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:31:47,974] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:31:47,974] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 20;
+[2021-03-09 10:31:48,718] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7, 8, 14, 24, 25, 31'), bytearray(b'11'))
+[2021-03-09 10:31:48,719] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6, 7, 23, 24, 26, 32'), bytearray(b'4'))
+[2021-03-09 10:31:48,719] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17, 23, 24, 25, 26, 28'), bytearray(b'12'))
+[2021-03-09 10:31:48,719] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5, 6, 7, 24, 25, 26'), bytearray(b'3'))
+[2021-03-09 10:31:48,720] [MySqlUtils] [MainThread] [INFO]: (60, bytearray(b'3, 4, 13, 14, 26, 28'), bytearray(b'3'))
+[2021-03-09 10:31:48,720] [MySqlUtils] [MainThread] [INFO]: (59, bytearray(b'8, 18, 27, 29, 31, 33'), bytearray(b'8'))
+[2021-03-09 10:31:48,720] [MySqlUtils] [MainThread] [INFO]: (58, bytearray(b'4, 7, 14, 26, 27, 31'), bytearray(b'2'))
+[2021-03-09 10:31:48,720] [MySqlUtils] [MainThread] [INFO]: (57, bytearray(b'8, 9, 11, 14, 25, 29'), bytearray(b'10'))
+[2021-03-09 10:31:48,720] [MySqlUtils] [MainThread] [INFO]: (56, bytearray(b'2, 11, 19, 22, 25, 31'), bytearray(b'7'))
+[2021-03-09 10:31:48,721] [MySqlUtils] [MainThread] [INFO]: (55, bytearray(b'1, 14, 16, 17, 22, 33'), bytearray(b'8'))
+[2021-03-09 10:31:48,721] [MySqlUtils] [MainThread] [INFO]: (54, bytearray(b'4, 8, 15, 17, 19, 29'), bytearray(b'8'))
+[2021-03-09 10:31:48,721] [MySqlUtils] [MainThread] [INFO]: (53, bytearray(b'4, 6, 14, 18, 28, 29'), bytearray(b'12'))
+[2021-03-09 10:31:48,721] [MySqlUtils] [MainThread] [INFO]: (52, bytearray(b'1, 4, 6, 10, 26, 33'), bytearray(b'1'))
+[2021-03-09 10:31:48,721] [MySqlUtils] [MainThread] [INFO]: (51, bytearray(b'1, 9, 13, 17, 18, 33'), bytearray(b'16'))
+[2021-03-09 10:31:48,721] [MySqlUtils] [MainThread] [INFO]: (50, bytearray(b'10, 14, 16, 20, 29, 33'), bytearray(b'8'))
+[2021-03-09 10:31:48,721] [MySqlUtils] [MainThread] [INFO]: (49, bytearray(b'1, 4, 16, 24, 26, 33'), bytearray(b'8'))
+[2021-03-09 10:31:48,722] [MySqlUtils] [MainThread] [INFO]: (48, bytearray(b'3, 6, 27, 28, 29, 31'), bytearray(b'16'))
+[2021-03-09 10:31:48,722] [MySqlUtils] [MainThread] [INFO]: (47, bytearray(b'7, 8, 18, 19, 20, 28'), bytearray(b'7'))
+[2021-03-09 10:31:48,722] [MySqlUtils] [MainThread] [INFO]: (46, bytearray(b'1, 7, 22, 24, 25, 32'), bytearray(b'8'))
+[2021-03-09 10:31:48,722] [MySqlUtils] [MainThread] [INFO]: (45, bytearray(b'1, 3, 12, 13, 25, 30'), bytearray(b'1'))
+[2021-03-09 10:33:03,223] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}
+[2021-03-09 10:33:50,814] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:33:50,816] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:33:50,968] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:33:50,969] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:33:50,969] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 20;
+[2021-03-09 10:33:51,688] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7, 8, 14, 24, 25, 31'), bytearray(b'11'))
+[2021-03-09 10:33:51,688] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6, 7, 23, 24, 26, 32'), bytearray(b'4'))
+[2021-03-09 10:33:51,689] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17, 23, 24, 25, 26, 28'), bytearray(b'12'))
+[2021-03-09 10:33:51,689] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5, 6, 7, 24, 25, 26'), bytearray(b'3'))
+[2021-03-09 10:33:51,689] [MySqlUtils] [MainThread] [INFO]: (60, bytearray(b'3, 4, 13, 14, 26, 28'), bytearray(b'3'))
+[2021-03-09 10:33:51,689] [MySqlUtils] [MainThread] [INFO]: (59, bytearray(b'8, 18, 27, 29, 31, 33'), bytearray(b'8'))
+[2021-03-09 10:33:51,690] [MySqlUtils] [MainThread] [INFO]: (58, bytearray(b'4, 7, 14, 26, 27, 31'), bytearray(b'2'))
+[2021-03-09 10:33:51,690] [MySqlUtils] [MainThread] [INFO]: (57, bytearray(b'8, 9, 11, 14, 25, 29'), bytearray(b'10'))
+[2021-03-09 10:33:51,690] [MySqlUtils] [MainThread] [INFO]: (56, bytearray(b'2, 11, 19, 22, 25, 31'), bytearray(b'7'))
+[2021-03-09 10:33:51,690] [MySqlUtils] [MainThread] [INFO]: (55, bytearray(b'1, 14, 16, 17, 22, 33'), bytearray(b'8'))
+[2021-03-09 10:33:51,690] [MySqlUtils] [MainThread] [INFO]: (54, bytearray(b'4, 8, 15, 17, 19, 29'), bytearray(b'8'))
+[2021-03-09 10:33:51,690] [MySqlUtils] [MainThread] [INFO]: (53, bytearray(b'4, 6, 14, 18, 28, 29'), bytearray(b'12'))
+[2021-03-09 10:33:51,691] [MySqlUtils] [MainThread] [INFO]: (52, bytearray(b'1, 4, 6, 10, 26, 33'), bytearray(b'1'))
+[2021-03-09 10:33:51,691] [MySqlUtils] [MainThread] [INFO]: (51, bytearray(b'1, 9, 13, 17, 18, 33'), bytearray(b'16'))
+[2021-03-09 10:33:51,691] [MySqlUtils] [MainThread] [INFO]: (50, bytearray(b'10, 14, 16, 20, 29, 33'), bytearray(b'8'))
+[2021-03-09 10:33:51,691] [MySqlUtils] [MainThread] [INFO]: (49, bytearray(b'1, 4, 16, 24, 26, 33'), bytearray(b'8'))
+[2021-03-09 10:33:51,691] [MySqlUtils] [MainThread] [INFO]: (48, bytearray(b'3, 6, 27, 28, 29, 31'), bytearray(b'16'))
+[2021-03-09 10:33:51,691] [MySqlUtils] [MainThread] [INFO]: (47, bytearray(b'7, 8, 18, 19, 20, 28'), bytearray(b'7'))
+[2021-03-09 10:33:51,692] [MySqlUtils] [MainThread] [INFO]: (46, bytearray(b'1, 7, 22, 24, 25, 32'), bytearray(b'8'))
+[2021-03-09 10:33:51,692] [MySqlUtils] [MainThread] [INFO]: (45, bytearray(b'1, 3, 12, 13, 25, 30'), bytearray(b'1'))
+[2021-03-09 10:33:51,693] [CommonUtils] [MainThread] [INFO]: ['7', ' 8', ' 14', ' 24', ' 25', ' 31']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:33:51,693] [CommonUtils] [MainThread] [INFO]: ['11']	['11']
+[2021-03-09 10:34:12,772] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}
+[2021-03-09 10:34:12,774] [CommonUtils] [MainThread] [INFO]: ['6', ' 7', ' 23', ' 24', ' 26', ' 32']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:34:12,775] [CommonUtils] [MainThread] [INFO]: ['4']	['11']
+[2021-03-09 10:39:57,288] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:39:57,291] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:39:57,482] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:39:57,483] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:39:57,483] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 20;
+[2021-03-09 10:39:58,213] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 10:39:58,214] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 10:39:58,215] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 10:39:58,215] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 10:39:58,215] [MySqlUtils] [MainThread] [INFO]: (60, bytearray(b'3,4,13,14,26,28'), bytearray(b'3'))
+[2021-03-09 10:39:58,215] [MySqlUtils] [MainThread] [INFO]: (59, bytearray(b'8,18,27,29,31,33'), bytearray(b'8'))
+[2021-03-09 10:39:58,216] [MySqlUtils] [MainThread] [INFO]: (58, bytearray(b'4,7,14,26,27,31'), bytearray(b'2'))
+[2021-03-09 10:39:58,217] [MySqlUtils] [MainThread] [INFO]: (57, bytearray(b'8,9,11,14,25,29'), bytearray(b'10'))
+[2021-03-09 10:39:58,218] [MySqlUtils] [MainThread] [INFO]: (56, bytearray(b'2,11,19,22,25,31'), bytearray(b'7'))
+[2021-03-09 10:39:58,219] [MySqlUtils] [MainThread] [INFO]: (55, bytearray(b'1,14,16,17,22,33'), bytearray(b'8'))
+[2021-03-09 10:39:58,221] [MySqlUtils] [MainThread] [INFO]: (54, bytearray(b'4,8,15,17,19,29'), bytearray(b'8'))
+[2021-03-09 10:39:58,222] [MySqlUtils] [MainThread] [INFO]: (53, bytearray(b'4,6,14,18,28,29'), bytearray(b'12'))
+[2021-03-09 10:39:58,222] [MySqlUtils] [MainThread] [INFO]: (52, bytearray(b'1,4,6,10,26,33'), bytearray(b'1'))
+[2021-03-09 10:39:58,223] [MySqlUtils] [MainThread] [INFO]: (51, bytearray(b'1,9,13,17,18,33'), bytearray(b'16'))
+[2021-03-09 10:39:58,223] [MySqlUtils] [MainThread] [INFO]: (50, bytearray(b'10,14,16,20,29,33'), bytearray(b'8'))
+[2021-03-09 10:39:58,223] [MySqlUtils] [MainThread] [INFO]: (49, bytearray(b'1,4,16,24,26,33'), bytearray(b'8'))
+[2021-03-09 10:39:58,224] [MySqlUtils] [MainThread] [INFO]: (48, bytearray(b'3,6,27,28,29,31'), bytearray(b'16'))
+[2021-03-09 10:39:58,224] [MySqlUtils] [MainThread] [INFO]: (47, bytearray(b'7,8,18,19,20,28'), bytearray(b'7'))
+[2021-03-09 10:39:58,224] [MySqlUtils] [MainThread] [INFO]: (46, bytearray(b'1,7,22,24,25,32'), bytearray(b'8'))
+[2021-03-09 10:39:58,224] [MySqlUtils] [MainThread] [INFO]: (45, bytearray(b'1,3,12,13,25,30'), bytearray(b'1'))
+[2021-03-09 10:39:58,233] [CommonUtils] [MainThread] [INFO]: ['7', '8', '14', '24', '25', '31']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:39:58,233] [CommonUtils] [MainThread] [INFO]: ['11']	['11']
+[2021-03-09 10:40:03,333] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}
+[2021-03-09 10:40:03,336] [CommonUtils] [MainThread] [INFO]: ['6', '7', '23', '24', '26', '32']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:03,339] [CommonUtils] [MainThread] [INFO]: ['4']	['11']
+[2021-03-09 10:40:07,017] [CommonUtils] [MainThread] [INFO]: 检查结果：63	1	{'23'}	0	set()
+[2021-03-09 10:40:07,019] [CommonUtils] [MainThread] [INFO]: ['17', '23', '24', '25', '26', '28']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:07,022] [CommonUtils] [MainThread] [INFO]: ['12']	['11']
+[2021-03-09 10:40:12,009] [CommonUtils] [MainThread] [INFO]: 检查结果：62	2	{'23', '28'}	0	set()
+[2021-03-09 10:40:12,012] [CommonUtils] [MainThread] [INFO]: ['5', '6', '7', '24', '25', '26']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:12,013] [CommonUtils] [MainThread] [INFO]: ['3']	['11']
+[2021-03-09 10:40:14,147] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()
+[2021-03-09 10:40:14,148] [CommonUtils] [MainThread] [INFO]: ['3', '4', '13', '14', '26', '28']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:14,149] [CommonUtils] [MainThread] [INFO]: ['3']	['11']
+[2021-03-09 10:40:16,864] [CommonUtils] [MainThread] [INFO]: 检查结果：60	1	{'28'}	0	set()
+[2021-03-09 10:40:16,865] [CommonUtils] [MainThread] [INFO]: ['8', '18', '27', '29', '31', '33']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,865] [CommonUtils] [MainThread] [INFO]: ['8']	['11']
+[2021-03-09 10:40:16,865] [CommonUtils] [MainThread] [INFO]: 检查结果：59	1	{'27'}	0	set()
+[2021-03-09 10:40:16,865] [CommonUtils] [MainThread] [INFO]: ['4', '7', '14', '26', '27', '31']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,866] [CommonUtils] [MainThread] [INFO]: ['2']	['11']
+[2021-03-09 10:40:16,866] [CommonUtils] [MainThread] [INFO]: 检查结果：58	1	{'27'}	0	set()
+[2021-03-09 10:40:16,866] [CommonUtils] [MainThread] [INFO]: ['8', '9', '11', '14', '25', '29']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,866] [CommonUtils] [MainThread] [INFO]: ['10']	['11']
+[2021-03-09 10:40:16,866] [CommonUtils] [MainThread] [INFO]: 检查结果：57	0	set()	0	set()
+[2021-03-09 10:40:16,867] [CommonUtils] [MainThread] [INFO]: ['2', '11', '19', '22', '25', '31']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,868] [CommonUtils] [MainThread] [INFO]: ['7']	['11']
+[2021-03-09 10:40:16,868] [CommonUtils] [MainThread] [INFO]: 检查结果：56	1	{'22'}	0	set()
+[2021-03-09 10:40:16,869] [CommonUtils] [MainThread] [INFO]: ['1', '14', '16', '17', '22', '33']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,869] [CommonUtils] [MainThread] [INFO]: ['8']	['11']
+[2021-03-09 10:40:16,870] [CommonUtils] [MainThread] [INFO]: 检查结果：55	1	{'22'}	0	set()
+[2021-03-09 10:40:16,875] [CommonUtils] [MainThread] [INFO]: ['4', '8', '15', '17', '19', '29']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,875] [CommonUtils] [MainThread] [INFO]: ['8']	['11']
+[2021-03-09 10:40:16,875] [CommonUtils] [MainThread] [INFO]: 检查结果：54	0	set()	0	set()
+[2021-03-09 10:40:16,876] [CommonUtils] [MainThread] [INFO]: ['4', '6', '14', '18', '28', '29']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,877] [CommonUtils] [MainThread] [INFO]: ['12']	['11']
+[2021-03-09 10:40:16,879] [CommonUtils] [MainThread] [INFO]: 检查结果：53	1	{'28'}	0	set()
+[2021-03-09 10:40:16,880] [CommonUtils] [MainThread] [INFO]: ['1', '4', '6', '10', '26', '33']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,880] [CommonUtils] [MainThread] [INFO]: ['1']	['11']
+[2021-03-09 10:40:16,881] [CommonUtils] [MainThread] [INFO]: 检查结果：52	0	set()	0	set()
+[2021-03-09 10:40:16,881] [CommonUtils] [MainThread] [INFO]: ['1', '9', '13', '17', '18', '33']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,881] [CommonUtils] [MainThread] [INFO]: ['16']	['11']
+[2021-03-09 10:40:16,882] [CommonUtils] [MainThread] [INFO]: 检查结果：51	0	set()	0	set()
+[2021-03-09 10:40:16,883] [CommonUtils] [MainThread] [INFO]: ['10', '14', '16', '20', '29', '33']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,883] [CommonUtils] [MainThread] [INFO]: ['8']	['11']
+[2021-03-09 10:40:16,884] [CommonUtils] [MainThread] [INFO]: 检查结果：50	0	set()	0	set()
+[2021-03-09 10:40:16,884] [CommonUtils] [MainThread] [INFO]: ['1', '4', '16', '24', '26', '33']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,884] [CommonUtils] [MainThread] [INFO]: ['8']	['11']
+[2021-03-09 10:40:16,884] [CommonUtils] [MainThread] [INFO]: 检查结果：49	0	set()	0	set()
+[2021-03-09 10:40:16,884] [CommonUtils] [MainThread] [INFO]: ['3', '6', '27', '28', '29', '31']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,885] [CommonUtils] [MainThread] [INFO]: ['16']	['11']
+[2021-03-09 10:40:16,885] [CommonUtils] [MainThread] [INFO]: 检查结果：48	2	{'27', '28'}	0	set()
+[2021-03-09 10:40:16,885] [CommonUtils] [MainThread] [INFO]: ['7', '8', '18', '19', '20', '28']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,885] [CommonUtils] [MainThread] [INFO]: ['7']	['11']
+[2021-03-09 10:40:16,885] [CommonUtils] [MainThread] [INFO]: 检查结果：47	1	{'28'}	0	set()
+[2021-03-09 10:40:16,886] [CommonUtils] [MainThread] [INFO]: ['1', '7', '22', '24', '25', '32']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,886] [CommonUtils] [MainThread] [INFO]: ['8']	['11']
+[2021-03-09 10:40:16,886] [CommonUtils] [MainThread] [INFO]: 检查结果：46	1	{'22'}	0	set()
+[2021-03-09 10:40:16,888] [CommonUtils] [MainThread] [INFO]: ['1', '3', '12', '13', '25', '30']	['02', '21', '22', '23', '27', '28']
+[2021-03-09 10:40:16,889] [CommonUtils] [MainThread] [INFO]: ['1']	['11']
+[2021-03-09 10:40:16,889] [CommonUtils] [MainThread] [INFO]: 检查结果：45	0	set()	0	set()
+[2021-03-09 10:40:27,211] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 10:40:27,212] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 10:40:27,356] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 10:40:27,356] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 10:40:27,356] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 20;
+[2021-03-09 10:40:28,104] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 10:40:28,104] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 10:40:28,104] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 10:40:28,104] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 10:40:28,105] [MySqlUtils] [MainThread] [INFO]: (60, bytearray(b'3,4,13,14,26,28'), bytearray(b'3'))
+[2021-03-09 10:40:28,105] [MySqlUtils] [MainThread] [INFO]: (59, bytearray(b'8,18,27,29,31,33'), bytearray(b'8'))
+[2021-03-09 10:40:28,105] [MySqlUtils] [MainThread] [INFO]: (58, bytearray(b'4,7,14,26,27,31'), bytearray(b'2'))
+[2021-03-09 10:40:28,105] [MySqlUtils] [MainThread] [INFO]: (57, bytearray(b'8,9,11,14,25,29'), bytearray(b'10'))
+[2021-03-09 10:40:28,105] [MySqlUtils] [MainThread] [INFO]: (56, bytearray(b'2,11,19,22,25,31'), bytearray(b'7'))
+[2021-03-09 10:40:28,106] [MySqlUtils] [MainThread] [INFO]: (55, bytearray(b'1,14,16,17,22,33'), bytearray(b'8'))
+[2021-03-09 10:40:28,106] [MySqlUtils] [MainThread] [INFO]: (54, bytearray(b'4,8,15,17,19,29'), bytearray(b'8'))
+[2021-03-09 10:40:28,106] [MySqlUtils] [MainThread] [INFO]: (53, bytearray(b'4,6,14,18,28,29'), bytearray(b'12'))
+[2021-03-09 10:40:28,106] [MySqlUtils] [MainThread] [INFO]: (52, bytearray(b'1,4,6,10,26,33'), bytearray(b'1'))
+[2021-03-09 10:40:28,106] [MySqlUtils] [MainThread] [INFO]: (51, bytearray(b'1,9,13,17,18,33'), bytearray(b'16'))
+[2021-03-09 10:40:28,106] [MySqlUtils] [MainThread] [INFO]: (50, bytearray(b'10,14,16,20,29,33'), bytearray(b'8'))
+[2021-03-09 10:40:28,107] [MySqlUtils] [MainThread] [INFO]: (49, bytearray(b'1,4,16,24,26,33'), bytearray(b'8'))
+[2021-03-09 10:40:28,107] [MySqlUtils] [MainThread] [INFO]: (48, bytearray(b'3,6,27,28,29,31'), bytearray(b'16'))
+[2021-03-09 10:40:28,107] [MySqlUtils] [MainThread] [INFO]: (47, bytearray(b'7,8,18,19,20,28'), bytearray(b'7'))
+[2021-03-09 10:40:28,107] [MySqlUtils] [MainThread] [INFO]: (46, bytearray(b'1,7,22,24,25,32'), bytearray(b'8'))
+[2021-03-09 10:40:28,107] [MySqlUtils] [MainThread] [INFO]: (45, bytearray(b'1,3,12,13,25,30'), bytearray(b'1'))
+[2021-03-09 10:40:28,107] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}
+[2021-03-09 10:40:28,108] [CommonUtils] [MainThread] [INFO]: 检查结果：63	1	{'23'}	0	set()
+[2021-03-09 10:40:28,108] [CommonUtils] [MainThread] [INFO]: 检查结果：62	2	{'28', '23'}	0	set()
+[2021-03-09 10:40:28,108] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()
+[2021-03-09 10:40:28,108] [CommonUtils] [MainThread] [INFO]: 检查结果：60	1	{'28'}	0	set()
+[2021-03-09 10:40:28,108] [CommonUtils] [MainThread] [INFO]: 检查结果：59	1	{'27'}	0	set()
+[2021-03-09 10:40:28,108] [CommonUtils] [MainThread] [INFO]: 检查结果：58	1	{'27'}	0	set()
+[2021-03-09 10:40:28,109] [CommonUtils] [MainThread] [INFO]: 检查结果：57	0	set()	0	set()
+[2021-03-09 10:40:28,109] [CommonUtils] [MainThread] [INFO]: 检查结果：56	1	{'22'}	0	set()
+[2021-03-09 10:40:28,109] [CommonUtils] [MainThread] [INFO]: 检查结果：55	1	{'22'}	0	set()
+[2021-03-09 10:40:28,109] [CommonUtils] [MainThread] [INFO]: 检查结果：54	0	set()	0	set()
+[2021-03-09 10:40:28,109] [CommonUtils] [MainThread] [INFO]: 检查结果：53	1	{'28'}	0	set()
+[2021-03-09 10:40:28,109] [CommonUtils] [MainThread] [INFO]: 检查结果：52	0	set()	0	set()
+[2021-03-09 10:40:28,110] [CommonUtils] [MainThread] [INFO]: 检查结果：51	0	set()	0	set()
+[2021-03-09 10:40:28,110] [CommonUtils] [MainThread] [INFO]: 检查结果：50	0	set()	0	set()
+[2021-03-09 10:40:28,110] [CommonUtils] [MainThread] [INFO]: 检查结果：49	0	set()	0	set()
+[2021-03-09 10:40:28,110] [CommonUtils] [MainThread] [INFO]: 检查结果：48	2	{'28', '27'}	0	set()
+[2021-03-09 10:40:28,110] [CommonUtils] [MainThread] [INFO]: 检查结果：47	1	{'28'}	0	set()
+[2021-03-09 10:40:28,110] [CommonUtils] [MainThread] [INFO]: 检查结果：46	1	{'22'}	0	set()
+[2021-03-09 10:40:28,111] [CommonUtils] [MainThread] [INFO]: 检查结果：45	0	set()	0	set()
+[2021-03-09 11:16:39,610] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:16:39,611] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:16:40,952] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:16:40,952] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:16:40,953] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:16:41,115] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:16:41,116] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:16:41,116] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:16:41,116] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:16:39')
+[2021-03-09 11:16:42,072] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:16:42,072] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023'
+[2021-03-09 11:16:42,812] [MySqlUtils] [MainThread] [INFO]: (7,)
+[2021-03-09 11:16:42,813] [MySqlUtils] [MainThread] [INFO]: (8,)
+[2021-03-09 11:16:42,813] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: (7,)
+[2021-03-09 11:16:42,814] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:16:42,814] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 11:16:43,522] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 11:16:43,522] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 11:16:43,523] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 11:16:43,523] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 11:16:43,523] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:16:43,524] [CommonUtils] [MainThread] [INFO]: 检查结果：<built-in function id>	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:16:43,524] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:17:18,870] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:17:18,870] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:17:22,881] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:17:22,882] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:17:22,882] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:17:23,031] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:17:23,031] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:17:23,032] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:17:23,032] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:17:18')
+[2021-03-09 11:17:24,001] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:17:24,002] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023'
+[2021-03-09 11:17:24,721] [MySqlUtils] [MainThread] [INFO]: (9,)
+[2021-03-09 11:17:24,722] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: (9,)
+[2021-03-09 11:17:24,722] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:17:24,722] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 11:17:25,441] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 11:17:25,442] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 11:17:25,442] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 11:17:25,442] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 11:17:25,443] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:17:25,443] [CommonUtils] [MainThread] [INFO]: 检查结果：<built-in function id>	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:17:25,443] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:17:25,444] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, (9,), set(), 0, {'11'}, 1, '六等奖', '2021-03-09 11:17:18')
+[2021-03-09 11:17:25,928] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'tuple' cannot be converted to a MySQL type
+[2021-03-09 11:17:25,928] [CommonUtils] [MainThread] [INFO]: 检查结果：<built-in function id>	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:17:25,928] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:17:25,929] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (63, (9,), {'23'}, 1, set(), 0, '未中奖', '2021-03-09 11:17:18')
+[2021-03-09 11:17:26,400] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'tuple' cannot be converted to a MySQL type
+[2021-03-09 11:17:26,401] [CommonUtils] [MainThread] [INFO]: 检查结果：<built-in function id>	2	{'23', '28'}	0	set()	未中奖
+[2021-03-09 11:17:26,401] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:17:26,401] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (62, (9,), {'23', '28'}, 2, set(), 0, '未中奖', '2021-03-09 11:17:18')
+[2021-03-09 11:17:26,880] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'tuple' cannot be converted to a MySQL type
+[2021-03-09 11:17:26,881] [CommonUtils] [MainThread] [INFO]: 检查结果：<built-in function id>	0	set()	0	set()	未中奖
+[2021-03-09 11:17:26,881] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:17:26,882] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (61, (9,), set(), 0, set(), 0, '未中奖', '2021-03-09 11:17:18')
+[2021-03-09 11:17:27,360] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'tuple' cannot be converted to a MySQL type
+[2021-03-09 11:17:27,361] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:19:24,106] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:19:24,107] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:19:25,154] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:19:25,154] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:19:25,155] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:19:25,301] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:19:25,302] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:19:25,302] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:19:25,302] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:19:24')
+[2021-03-09 11:19:26,234] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:19:26,234] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023'
+[2021-03-09 11:19:26,965] [MySqlUtils] [MainThread] [INFO]: (10,)
+[2021-03-09 11:19:26,965] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 10
+[2021-03-09 11:19:26,966] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:19:26,966] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 11:19:27,684] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 11:19:27,684] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 11:19:27,685] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 11:19:27,685] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 11:19:27,685] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:19:27,686] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:19:27,686] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:19:27,686] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 10, set(), 0, {'11'}, 1, '六等奖', '2021-03-09 11:19:24')
+[2021-03-09 11:19:28,275] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'set' cannot be converted to a MySQL type
+[2021-03-09 11:19:28,275] [CommonUtils] [MainThread] [INFO]: 检查结果：63	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:19:28,275] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:19:28,276] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (63, 10, {'23'}, 1, set(), 0, '未中奖', '2021-03-09 11:19:24')
+[2021-03-09 11:19:28,754] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'set' cannot be converted to a MySQL type
+[2021-03-09 11:19:28,754] [CommonUtils] [MainThread] [INFO]: 检查结果：62	2	{'23', '28'}	0	set()	未中奖
+[2021-03-09 11:19:28,755] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:19:28,755] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (62, 10, {'23', '28'}, 2, set(), 0, '未中奖', '2021-03-09 11:19:24')
+[2021-03-09 11:19:29,234] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'set' cannot be converted to a MySQL type
+[2021-03-09 11:19:29,234] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()	未中奖
+[2021-03-09 11:19:29,235] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:19:29,236] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (61, 10, set(), 0, set(), 0, '未中奖', '2021-03-09 11:19:24')
+[2021-03-09 11:19:29,714] [MySqlUtils] [MainThread] [ERROR]: 记录插入失败Failed processing format-parameters; Python 'set' cannot be converted to a MySQL type
+[2021-03-09 11:19:29,714] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:20:24,550] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:20:24,551] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:20:26,482] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:20:26,482] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:20:26,483] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:20:26,674] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:20:26,674] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:20:26,675] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:20:26,675] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:20:24')
+[2021-03-09 11:20:27,642] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:20:27,642] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023' order by id desc limit 1
+[2021-03-09 11:20:28,363] [MySqlUtils] [MainThread] [INFO]: (11,)
+[2021-03-09 11:20:28,363] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 11
+[2021-03-09 11:20:28,363] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:20:28,364] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 11:20:29,092] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 11:20:29,092] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 11:20:29,093] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 11:20:29,093] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 11:20:29,093] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:20:29,094] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:20:29,095] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:20:29,095] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 11, '', 0, '11', 1, '六等奖', '2021-03-09 11:20:24')
+[2021-03-09 11:20:30,041] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:20:30,042] [CommonUtils] [MainThread] [INFO]: 检查结果：63	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:20:30,042] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:20:30,043] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (63, 11, '23', 1, '', 0, '未中奖', '2021-03-09 11:20:24')
+[2021-03-09 11:20:31,052] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:20:31,052] [CommonUtils] [MainThread] [INFO]: 检查结果：62	2	{'28', '23'}	0	set()	未中奖
+[2021-03-09 11:20:31,053] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:20:31,053] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (62, 11, '28,23', 2, '', 0, '未中奖', '2021-03-09 11:20:24')
+[2021-03-09 11:20:32,001] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:20:32,002] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()	未中奖
+[2021-03-09 11:20:32,002] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:20:32,002] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (61, 11, '', 0, '', 0, '未中奖', '2021-03-09 11:20:24')
+[2021-03-09 11:20:32,961] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:20:32,962] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:29:48,033] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:29:48,035] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:29:49,104] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:29:49,105] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:29:49,105] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:29:49,261] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:29:49,261] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:29:49,261] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:29:49,261] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:29:48')
+[2021-03-09 11:29:50,224] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:29:50,225] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023' order by id desc limit 1
+[2021-03-09 11:29:50,944] [MySqlUtils] [MainThread] [INFO]: (12,)
+[2021-03-09 11:29:50,945] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 12
+[2021-03-09 11:29:50,945] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:29:50,945] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 11:29:51,666] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 11:29:51,666] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 11:29:51,667] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 11:29:51,667] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 11:29:51,667] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:29:51,668] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:29:51,668] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:29:51,668] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 12, '', 0, '11', 1, '六等奖', '2021-03-09 11:29:48')
+[2021-03-09 11:29:52,625] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:29:52,626] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:29:52,626] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:29:52,626] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 12, '', 0, '11', 1, '六等奖', '2021-03-09 11:29:48')
+[2021-03-09 11:29:53,584] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:29:53,584] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:29:53,584] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:29:53,585] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 12, '', 0, '11', 1, '六等奖', '2021-03-09 11:29:48')
+[2021-03-09 11:29:54,544] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:29:54,544] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:29:54,544] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:29:54,545] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 12, '', 0, '11', 1, '六等奖', '2021-03-09 11:29:48')
+[2021-03-09 11:29:55,505] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:29:55,729] [CommonUtils] [MainThread] [INFO]: 邮件发送成功
+[2021-03-09 11:29:55,730] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:30:56,887] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:30:56,887] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:30:57,942] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:30:57,943] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:30:57,943] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:30:58,092] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:30:58,092] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:30:58,092] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:30:58,092] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:30:56')
+[2021-03-09 11:30:59,063] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:30:59,063] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023' order by id desc limit 1
+[2021-03-09 11:30:59,784] [MySqlUtils] [MainThread] [INFO]: (13,)
+[2021-03-09 11:30:59,784] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 13
+[2021-03-09 11:30:59,785] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:30:59,785] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 11:31:00,503] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 11:31:00,503] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 11:31:00,503] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 11:31:00,503] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 11:31:00,504] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:31:00,504] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:31:00,504] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:31:00,505] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 13, '', 0, '11', 1, '六等奖', '2021-03-09 11:30:56')
+[2021-03-09 11:31:01,511] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:31:01,511] [CommonUtils] [MainThread] [INFO]: 检查结果：63	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:31:01,511] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:31:01,512] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (63, 13, '23', 1, '', 0, '未中奖', '2021-03-09 11:30:56')
+[2021-03-09 11:31:02,463] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:31:02,463] [CommonUtils] [MainThread] [INFO]: 检查结果：62	2	{'23', '28'}	0	set()	未中奖
+[2021-03-09 11:31:02,464] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:31:02,464] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (62, 13, '23,28', 2, '', 0, '未中奖', '2021-03-09 11:30:56')
+[2021-03-09 11:31:03,422] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:31:03,423] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()	未中奖
+[2021-03-09 11:31:03,423] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:31:03,423] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (61, 13, '', 0, '', 0, '未中奖', '2021-03-09 11:30:56')
+[2021-03-09 11:31:04,383] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:31:05,001] [CommonUtils] [MainThread] [INFO]: 邮件发送成功
+[2021-03-09 11:31:05,001] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:32:06,442] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:32:06,442] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:32:07,623] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:32:07,624] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:32:07,624] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:32:07,773] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:32:07,773] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:32:07,774] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:32:07,774] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:32:06')
+[2021-03-09 11:32:08,753] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:32:08,753] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023' order by id desc limit 1
+[2021-03-09 11:32:09,464] [MySqlUtils] [MainThread] [INFO]: (14,)
+[2021-03-09 11:32:09,464] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 14
+[2021-03-09 11:32:09,464] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:32:09,465] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 11:32:10,183] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 11:32:10,184] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 11:32:10,184] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 11:32:10,184] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 11:32:10,185] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:32:10,185] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:32:10,185] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:32:10,186] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 14, '', 0, '11', 1, '六等奖', '2021-03-09 11:32:06')
+[2021-03-09 11:32:11,151] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:32:11,152] [CommonUtils] [MainThread] [INFO]: 检查结果：63	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:32:11,152] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:32:11,153] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (63, 14, '23', 1, '', 0, '未中奖', '2021-03-09 11:32:06')
+[2021-03-09 11:32:12,103] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:32:12,103] [CommonUtils] [MainThread] [INFO]: 检查结果：62	2	{'28', '23'}	0	set()	未中奖
+[2021-03-09 11:32:12,104] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:32:12,104] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (62, 14, '28,23', 2, '', 0, '未中奖', '2021-03-09 11:32:06')
+[2021-03-09 11:32:13,063] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:32:13,063] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()	未中奖
+[2021-03-09 11:32:13,063] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:32:13,064] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (61, 14, '', 0, '', 0, '未中奖', '2021-03-09 11:32:06')
+[2021-03-09 11:32:14,013] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:32:14,243] [CommonUtils] [MainThread] [INFO]: 邮件发送成功
+[2021-03-09 11:32:14,243] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:33:42,830] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:33:42,830] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:33:43,858] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:33:43,858] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:33:43,859] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:33:44,004] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:33:44,004] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:33:44,004] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:33:44,005] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:33:42')
+[2021-03-09 11:33:44,979] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:33:44,979] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023' order by id desc limit 1
+[2021-03-09 11:33:45,706] [MySqlUtils] [MainThread] [INFO]: (15,)
+[2021-03-09 11:33:45,707] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 15
+[2021-03-09 11:33:45,707] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:33:45,708] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball order by id desc limit 4;
+[2021-03-09 11:33:46,419] [MySqlUtils] [MainThread] [INFO]: (64, bytearray(b'7,8,14,24,25,31'), bytearray(b'11'))
+[2021-03-09 11:33:46,420] [MySqlUtils] [MainThread] [INFO]: (63, bytearray(b'6,7,23,24,26,32'), bytearray(b'4'))
+[2021-03-09 11:33:46,420] [MySqlUtils] [MainThread] [INFO]: (62, bytearray(b'17,23,24,25,26,28'), bytearray(b'12'))
+[2021-03-09 11:33:46,420] [MySqlUtils] [MainThread] [INFO]: (61, bytearray(b'5,6,7,24,25,26'), bytearray(b'3'))
+[2021-03-09 11:33:46,421] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:33:46,421] [CommonUtils] [MainThread] [INFO]: 检查结果：64	0	set()	1	{'11'}	六等奖
+[2021-03-09 11:33:46,421] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:33:46,422] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (64, 15, '', 0, '11', 1, '六等奖', '2021-03-09 11:33:42')
+[2021-03-09 11:33:47,378] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:33:47,379] [CommonUtils] [MainThread] [INFO]: 检查结果：63	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:33:47,379] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:33:47,380] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (63, 15, '23', 1, '', 0, '未中奖', '2021-03-09 11:33:42')
+[2021-03-09 11:33:48,338] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:33:48,339] [CommonUtils] [MainThread] [INFO]: 检查结果：62	2	{'28', '23'}	0	set()	未中奖
+[2021-03-09 11:33:48,339] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:33:48,339] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (62, 15, '28,23', 2, '', 0, '未中奖', '2021-03-09 11:33:42')
+[2021-03-09 11:33:49,298] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:33:49,298] [CommonUtils] [MainThread] [INFO]: 检查结果：61	0	set()	0	set()	未中奖
+[2021-03-09 11:33:49,299] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:33:49,299] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (61, 15, '', 0, '', 0, '未中奖', '2021-03-09 11:33:42')
+[2021-03-09 11:33:50,261] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:33:50,659] [CommonUtils] [MainThread] [INFO]: 邮件发送成功
+[2021-03-09 11:33:50,659] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:38:51,091] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:38:51,092] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:38:52,167] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:38:52,168] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:38:52,168] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:38:52,320] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:38:52,320] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:38:52,320] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:38:52,321] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:38:51')
+[2021-03-09 11:38:53,267] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:38:53,268] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023' order by id desc limit 1
+[2021-03-09 11:38:53,967] [MySqlUtils] [MainThread] [INFO]: (16,)
+[2021-03-09 11:38:53,968] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 16
+[2021-03-09 11:38:53,968] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:39:06,944] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:39:06,945] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:39:08,049] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:39:08,050] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:39:08,050] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:39:08,205] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:39:08,206] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:39:08,206] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:39:08,206] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:39:06')
+[2021-03-09 11:39:09,129] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:09,130] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023' order by id desc limit 1
+[2021-03-09 11:39:09,899] [MySqlUtils] [MainThread] [INFO]: (17,)
+[2021-03-09 11:39:09,899] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 17
+[2021-03-09 11:39:09,899] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:39:09,900] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball where periods='2021-03-07';
+[2021-03-09 11:39:10,642] [MySqlUtils] [MainThread] [INFO]: (13, bytearray(b'2,12,18,20,25,28'), bytearray(b'7'))
+[2021-03-09 11:39:10,642] [MySqlUtils] [MainThread] [INFO]: (14, bytearray(b'9,22,24,26,28,29'), bytearray(b'12'))
+[2021-03-09 11:39:10,642] [MySqlUtils] [MainThread] [INFO]: (15, bytearray(b'1,4,8,10,12,18'), bytearray(b'10'))
+[2021-03-09 11:39:10,643] [MySqlUtils] [MainThread] [INFO]: (16, bytearray(b'2,7,18,23,26,30'), bytearray(b'10'))
+[2021-03-09 11:39:10,643] [MySqlUtils] [MainThread] [INFO]: (17, bytearray(b'5,10,18,19,21,30'), bytearray(b'15'))
+[2021-03-09 11:39:10,643] [MySqlUtils] [MainThread] [INFO]: (18, bytearray(b'11,13,16,29,30,32'), bytearray(b'16'))
+[2021-03-09 11:39:10,643] [MySqlUtils] [MainThread] [INFO]: (19, bytearray(b'2,6,9,17,23,26'), bytearray(b'6'))
+[2021-03-09 11:39:10,643] [MySqlUtils] [MainThread] [INFO]: (20, bytearray(b'13,14,18,23,29,33'), bytearray(b'1'))
+[2021-03-09 11:39:10,643] [MySqlUtils] [MainThread] [INFO]: (21, bytearray(b'2,8,12,14,17,28'), bytearray(b'1'))
+[2021-03-09 11:39:10,643] [MySqlUtils] [MainThread] [INFO]: (22, bytearray(b'6,9,18,23,27,29'), bytearray(b'13'))
+[2021-03-09 11:39:10,644] [MySqlUtils] [MainThread] [INFO]: (23, bytearray(b'1,5,8,21,22,25'), bytearray(b'15'))
+[2021-03-09 11:39:10,644] [MySqlUtils] [MainThread] [INFO]: (24, bytearray(b'2,5,7,13,20,21'), bytearray(b'9'))
+[2021-03-09 11:39:10,644] [MySqlUtils] [MainThread] [INFO]: (25, bytearray(b'7,9,11,21,32,33'), bytearray(b'12'))
+[2021-03-09 11:39:10,644] [MySqlUtils] [MainThread] [INFO]: (26, bytearray(b'5,6,7,23,27,28'), bytearray(b'2'))
+[2021-03-09 11:39:10,644] [MySqlUtils] [MainThread] [INFO]: (27, bytearray(b'10,11,18,19,25,31'), bytearray(b'16'))
+[2021-03-09 11:39:10,644] [MySqlUtils] [MainThread] [INFO]: (28, bytearray(b'6,7,9,20,21,27'), bytearray(b'7'))
+[2021-03-09 11:39:10,645] [MySqlUtils] [MainThread] [INFO]: (29, bytearray(b'6,8,11,21,25,26'), bytearray(b'3'))
+[2021-03-09 11:39:10,645] [MySqlUtils] [MainThread] [INFO]: (30, bytearray(b'2,5,8,21,23,28'), bytearray(b'14'))
+[2021-03-09 11:39:10,645] [MySqlUtils] [MainThread] [INFO]: (31, bytearray(b'3,6,14,27,30,31'), bytearray(b'5'))
+[2021-03-09 11:39:10,645] [MySqlUtils] [MainThread] [INFO]: (32, bytearray(b'15,18,20,25,29,32'), bytearray(b'4'))
+[2021-03-09 11:39:10,645] [MySqlUtils] [MainThread] [INFO]: (33, bytearray(b'3,4,12,15,16,33'), bytearray(b'9'))
+[2021-03-09 11:39:10,645] [MySqlUtils] [MainThread] [INFO]: (34, bytearray(b'1,2,4,13,18,25'), bytearray(b'13'))
+[2021-03-09 11:39:10,646] [MySqlUtils] [MainThread] [INFO]: (35, bytearray(b'1,5,6,8,13,22'), bytearray(b'2'))
+[2021-03-09 11:39:10,646] [MySqlUtils] [MainThread] [INFO]: (36, bytearray(b'5,6,20,21,25,31'), bytearray(b'3'))
+[2021-03-09 11:39:10,646] [MySqlUtils] [MainThread] [INFO]: (37, bytearray(b'11,13,22,27,30,33'), bytearray(b'3'))
+[2021-03-09 11:39:10,646] [MySqlUtils] [MainThread] [INFO]: (38, bytearray(b'1,4,15,17,28,29'), bytearray(b'10'))
+[2021-03-09 11:39:10,646] [MySqlUtils] [MainThread] [INFO]: (39, bytearray(b'6,8,14,17,23,33'), bytearray(b'2'))
+[2021-03-09 11:39:10,646] [MySqlUtils] [MainThread] [INFO]: (40, bytearray(b'6,11,15,22,23,33'), bytearray(b'15'))
+[2021-03-09 11:39:10,646] [MySqlUtils] [MainThread] [INFO]: (41, bytearray(b'2,3,6,7,15,26'), bytearray(b'12'))
+[2021-03-09 11:39:10,647] [MySqlUtils] [MainThread] [INFO]: (42, bytearray(b'1,5,7,8,16,33'), bytearray(b'1'))
+[2021-03-09 11:39:10,647] [MySqlUtils] [MainThread] [INFO]: (43, bytearray(b'3,15,20,27,31,32'), bytearray(b'14'))
+[2021-03-09 11:39:10,647] [MySqlUtils] [MainThread] [INFO]: (44, bytearray(b'7,15,17,21,31,32'), bytearray(b'13'))
+[2021-03-09 11:39:10,647] [MySqlUtils] [MainThread] [INFO]: (45, bytearray(b'1,3,12,13,25,30'), bytearray(b'1'))
+[2021-03-09 11:39:10,647] [MySqlUtils] [MainThread] [INFO]: (46, bytearray(b'1,7,22,24,25,32'), bytearray(b'8'))
+[2021-03-09 11:39:10,647] [MySqlUtils] [MainThread] [INFO]: (47, bytearray(b'7,8,18,19,20,28'), bytearray(b'7'))
+[2021-03-09 11:39:10,648] [MySqlUtils] [MainThread] [INFO]: (48, bytearray(b'3,6,27,28,29,31'), bytearray(b'16'))
+[2021-03-09 11:39:10,648] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:39:10,648] [CommonUtils] [MainThread] [INFO]: 检查结果：13	1	{'28'}	0	set()	未中奖
+[2021-03-09 11:39:10,648] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:10,648] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (13, 17, '28', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:11,751] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:11,752] [CommonUtils] [MainThread] [INFO]: 检查结果：14	2	{'28', '22'}	0	set()	未中奖
+[2021-03-09 11:39:11,752] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:11,753] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (14, 17, '28,22', 2, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:12,699] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:12,700] [CommonUtils] [MainThread] [INFO]: 检查结果：15	0	set()	0	set()	未中奖
+[2021-03-09 11:39:12,700] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:12,700] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (15, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:13,659] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:13,660] [CommonUtils] [MainThread] [INFO]: 检查结果：16	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:39:13,660] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:13,660] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (16, 17, '23', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:14,629] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:14,629] [CommonUtils] [MainThread] [INFO]: 检查结果：17	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:39:14,630] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:14,630] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (17, 17, '21', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:15,569] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:15,569] [CommonUtils] [MainThread] [INFO]: 检查结果：18	0	set()	0	set()	未中奖
+[2021-03-09 11:39:15,569] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:15,569] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (18, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:16,529] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:16,529] [CommonUtils] [MainThread] [INFO]: 检查结果：19	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:39:16,530] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:16,530] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (19, 17, '23', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:17,499] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:17,500] [CommonUtils] [MainThread] [INFO]: 检查结果：20	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:39:17,500] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:17,501] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (20, 17, '23', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:18,460] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:18,460] [CommonUtils] [MainThread] [INFO]: 检查结果：21	1	{'28'}	0	set()	未中奖
+[2021-03-09 11:39:18,461] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:18,461] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (21, 17, '28', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:19,419] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:19,420] [CommonUtils] [MainThread] [INFO]: 检查结果：22	2	{'23', '27'}	0	set()	未中奖
+[2021-03-09 11:39:19,420] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:19,421] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (22, 17, '23,27', 2, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:20,369] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:20,370] [CommonUtils] [MainThread] [INFO]: 检查结果：23	2	{'21', '22'}	0	set()	未中奖
+[2021-03-09 11:39:20,370] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:20,370] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (23, 17, '21,22', 2, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:21,329] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:21,331] [CommonUtils] [MainThread] [INFO]: 检查结果：24	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:39:21,332] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:21,332] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (24, 17, '21', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:22,379] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:22,379] [CommonUtils] [MainThread] [INFO]: 检查结果：25	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:39:22,380] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:22,380] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (25, 17, '21', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:23,329] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:23,330] [CommonUtils] [MainThread] [INFO]: 检查结果：26	3	{'28', '23', '27'}	0	set()	未中奖
+[2021-03-09 11:39:23,330] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:23,330] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (26, 17, '28,23,27', 3, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:24,409] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:24,409] [CommonUtils] [MainThread] [INFO]: 检查结果：27	0	set()	0	set()	未中奖
+[2021-03-09 11:39:24,410] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:24,410] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (27, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:25,369] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:25,370] [CommonUtils] [MainThread] [INFO]: 检查结果：28	2	{'21', '27'}	0	set()	未中奖
+[2021-03-09 11:39:25,370] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:25,371] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (28, 17, '21,27', 2, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:26,329] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:26,329] [CommonUtils] [MainThread] [INFO]: 检查结果：29	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:39:26,329] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:26,330] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (29, 17, '21', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:27,299] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:27,300] [CommonUtils] [MainThread] [INFO]: 检查结果：30	3	{'28', '21', '23'}	0	set()	未中奖
+[2021-03-09 11:39:27,300] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:27,300] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (30, 17, '28,21,23', 3, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:28,260] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:28,260] [CommonUtils] [MainThread] [INFO]: 检查结果：31	1	{'27'}	0	set()	未中奖
+[2021-03-09 11:39:28,261] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:28,261] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (31, 17, '27', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:29,219] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:29,220] [CommonUtils] [MainThread] [INFO]: 检查结果：32	0	set()	0	set()	未中奖
+[2021-03-09 11:39:29,220] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:29,220] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (32, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:30,169] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:30,170] [CommonUtils] [MainThread] [INFO]: 检查结果：33	0	set()	0	set()	未中奖
+[2021-03-09 11:39:30,170] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:30,170] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (33, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:31,113] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:31,114] [CommonUtils] [MainThread] [INFO]: 检查结果：34	0	set()	0	set()	未中奖
+[2021-03-09 11:39:31,115] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:31,116] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (34, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:32,029] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:32,030] [CommonUtils] [MainThread] [INFO]: 检查结果：35	1	{'22'}	0	set()	未中奖
+[2021-03-09 11:39:32,030] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:32,031] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (35, 17, '22', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:32,979] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:32,980] [CommonUtils] [MainThread] [INFO]: 检查结果：36	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:39:32,980] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:32,980] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (36, 17, '21', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:33,939] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:33,939] [CommonUtils] [MainThread] [INFO]: 检查结果：37	2	{'22', '27'}	0	set()	未中奖
+[2021-03-09 11:39:33,940] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:33,940] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (37, 17, '22,27', 2, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:34,919] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:34,920] [CommonUtils] [MainThread] [INFO]: 检查结果：38	1	{'28'}	0	set()	未中奖
+[2021-03-09 11:39:34,920] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:34,921] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (38, 17, '28', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:35,859] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:35,859] [CommonUtils] [MainThread] [INFO]: 检查结果：39	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:39:35,859] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:35,860] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (39, 17, '23', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:36,799] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:36,800] [CommonUtils] [MainThread] [INFO]: 检查结果：40	2	{'22', '23'}	0	set()	未中奖
+[2021-03-09 11:39:36,801] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:36,802] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (40, 17, '22,23', 2, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:37,740] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:37,741] [CommonUtils] [MainThread] [INFO]: 检查结果：41	0	set()	0	set()	未中奖
+[2021-03-09 11:39:37,741] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:37,741] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (41, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:38,700] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:38,700] [CommonUtils] [MainThread] [INFO]: 检查结果：42	0	set()	0	set()	未中奖
+[2021-03-09 11:39:38,701] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:38,701] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (42, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:39,740] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:39,740] [CommonUtils] [MainThread] [INFO]: 检查结果：43	1	{'27'}	0	set()	未中奖
+[2021-03-09 11:39:39,741] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:39,741] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (43, 17, '27', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:40,699] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:40,699] [CommonUtils] [MainThread] [INFO]: 检查结果：44	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:39:40,700] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:40,700] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (44, 17, '21', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:41,619] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:41,619] [CommonUtils] [MainThread] [INFO]: 检查结果：45	0	set()	0	set()	未中奖
+[2021-03-09 11:39:41,620] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:41,620] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (45, 17, '', 0, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:42,579] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:42,579] [CommonUtils] [MainThread] [INFO]: 检查结果：46	1	{'22'}	0	set()	未中奖
+[2021-03-09 11:39:42,579] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:42,580] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (46, 17, '22', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:43,499] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:43,500] [CommonUtils] [MainThread] [INFO]: 检查结果：47	1	{'28'}	0	set()	未中奖
+[2021-03-09 11:39:43,500] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:43,501] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (47, 17, '28', 1, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:44,449] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:44,450] [CommonUtils] [MainThread] [INFO]: 检查结果：48	2	{'28', '27'}	0	set()	未中奖
+[2021-03-09 11:39:44,451] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:39:44,453] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (48, 17, '28,27', 2, '', 0, '未中奖', '2021-03-09 11:39:06')
+[2021-03-09 11:39:45,369] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:39:45,908] [CommonUtils] [MainThread] [INFO]: 邮件发送成功
+[2021-03-09 11:39:45,909] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:42:34,600] [CommonUtils] [MainThread] [INFO]: 开始：检查彩票中奖情况
+[2021-03-09 11:42:34,601] [CommonUtils] [MainThread] [INFO]: 1.获取 MySQL 实例
+[2021-03-09 11:42:35,661] [MySqlUtils] [MainThread] [INFO]: 数据库连接sucessfully!
+[2021-03-09 11:42:35,661] [CommonUtils] [MainThread] [INFO]: 2.获取最新一期中奖情况
+[2021-03-09 11:42:35,661] [CommonUtils] [MainThread] [INFO]: 解析最新一期双色球中奖情况
+[2021-03-09 11:42:35,807] [CommonUtils] [MainThread] [INFO]: 21023	02,21,22,23,27,28	11	903402709	4	9744205	85	279070	397987234	2021-03-07
+[2021-03-09 11:42:35,807] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:42:35,808] [CommonUtils] [MainThread] [INFO]: 将最新一期双色球中奖情况存入数据库
+[2021-03-09 11:42:35,808] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_lottery_info (issue_num, red_seq, blue_seq, prize_pool_bonus, first_prize_bet_num, first_prize_bonus, second_prize_bet_num, second_prize_bonus, total_bet, draw_date, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s), val is: (21023, '02,21,22,23,27,28', '11', '903402709', '4', '9744205', '85', '279070', '397987234', '2021-03-07', '2021-03-09 11:42:34')
+[2021-03-09 11:42:36,780] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:36,781] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id from two_color_ball_lottery_info where issue_num='21023' order by id desc limit 1
+[2021-03-09 11:42:37,501] [MySqlUtils] [MainThread] [INFO]: (18,)
+[2021-03-09 11:42:37,502] [CommonUtils] [MainThread] [INFO]: 查询最新一期双色球中奖情况的id: 18
+[2021-03-09 11:42:37,502] [CommonUtils] [MainThread] [INFO]: 3.获取所投注的双色球号码
+[2021-03-09 11:42:37,503] [MySqlUtils] [MainThread] [INFO]: exec sql is: select id, red_num, blue_num from two_color_ball where periods='2021-03-07';
+[2021-03-09 11:42:38,224] [MySqlUtils] [MainThread] [INFO]: (13, bytearray(b'2,12,18,20,25,28'), bytearray(b'7'))
+[2021-03-09 11:42:38,224] [MySqlUtils] [MainThread] [INFO]: (14, bytearray(b'9,22,24,26,28,29'), bytearray(b'12'))
+[2021-03-09 11:42:38,225] [MySqlUtils] [MainThread] [INFO]: (15, bytearray(b'1,4,8,10,12,18'), bytearray(b'10'))
+[2021-03-09 11:42:38,225] [MySqlUtils] [MainThread] [INFO]: (16, bytearray(b'2,7,18,23,26,30'), bytearray(b'10'))
+[2021-03-09 11:42:38,225] [MySqlUtils] [MainThread] [INFO]: (17, bytearray(b'5,10,18,19,21,30'), bytearray(b'15'))
+[2021-03-09 11:42:38,225] [MySqlUtils] [MainThread] [INFO]: (18, bytearray(b'11,13,16,29,30,32'), bytearray(b'16'))
+[2021-03-09 11:42:38,225] [MySqlUtils] [MainThread] [INFO]: (19, bytearray(b'2,6,9,17,23,26'), bytearray(b'6'))
+[2021-03-09 11:42:38,225] [MySqlUtils] [MainThread] [INFO]: (20, bytearray(b'13,14,18,23,29,33'), bytearray(b'1'))
+[2021-03-09 11:42:38,226] [MySqlUtils] [MainThread] [INFO]: (21, bytearray(b'2,8,12,14,17,28'), bytearray(b'1'))
+[2021-03-09 11:42:38,226] [MySqlUtils] [MainThread] [INFO]: (22, bytearray(b'6,9,18,23,27,29'), bytearray(b'13'))
+[2021-03-09 11:42:38,226] [MySqlUtils] [MainThread] [INFO]: (23, bytearray(b'1,5,8,21,22,25'), bytearray(b'15'))
+[2021-03-09 11:42:38,226] [MySqlUtils] [MainThread] [INFO]: (24, bytearray(b'2,5,7,13,20,21'), bytearray(b'9'))
+[2021-03-09 11:42:38,226] [MySqlUtils] [MainThread] [INFO]: (25, bytearray(b'7,9,11,21,32,33'), bytearray(b'12'))
+[2021-03-09 11:42:38,226] [MySqlUtils] [MainThread] [INFO]: (26, bytearray(b'5,6,7,23,27,28'), bytearray(b'2'))
+[2021-03-09 11:42:38,227] [MySqlUtils] [MainThread] [INFO]: (27, bytearray(b'10,11,18,19,25,31'), bytearray(b'16'))
+[2021-03-09 11:42:38,227] [MySqlUtils] [MainThread] [INFO]: (28, bytearray(b'6,7,9,20,21,27'), bytearray(b'7'))
+[2021-03-09 11:42:38,227] [MySqlUtils] [MainThread] [INFO]: (29, bytearray(b'6,8,11,21,25,26'), bytearray(b'3'))
+[2021-03-09 11:42:38,227] [MySqlUtils] [MainThread] [INFO]: (30, bytearray(b'2,5,8,21,23,28'), bytearray(b'14'))
+[2021-03-09 11:42:38,227] [MySqlUtils] [MainThread] [INFO]: (31, bytearray(b'3,6,14,27,30,31'), bytearray(b'5'))
+[2021-03-09 11:42:38,227] [MySqlUtils] [MainThread] [INFO]: (32, bytearray(b'15,18,20,25,29,32'), bytearray(b'4'))
+[2021-03-09 11:42:38,227] [MySqlUtils] [MainThread] [INFO]: (33, bytearray(b'3,4,12,15,16,33'), bytearray(b'9'))
+[2021-03-09 11:42:38,228] [MySqlUtils] [MainThread] [INFO]: (34, bytearray(b'1,2,4,13,18,25'), bytearray(b'13'))
+[2021-03-09 11:42:38,228] [MySqlUtils] [MainThread] [INFO]: (35, bytearray(b'1,5,6,8,13,22'), bytearray(b'2'))
+[2021-03-09 11:42:38,228] [MySqlUtils] [MainThread] [INFO]: (36, bytearray(b'5,6,20,21,25,31'), bytearray(b'3'))
+[2021-03-09 11:42:38,228] [MySqlUtils] [MainThread] [INFO]: (37, bytearray(b'11,13,22,27,30,33'), bytearray(b'3'))
+[2021-03-09 11:42:38,228] [MySqlUtils] [MainThread] [INFO]: (38, bytearray(b'1,4,15,17,28,29'), bytearray(b'10'))
+[2021-03-09 11:42:38,228] [MySqlUtils] [MainThread] [INFO]: (39, bytearray(b'6,8,14,17,23,33'), bytearray(b'2'))
+[2021-03-09 11:42:38,229] [MySqlUtils] [MainThread] [INFO]: (40, bytearray(b'6,11,15,22,23,33'), bytearray(b'15'))
+[2021-03-09 11:42:38,229] [MySqlUtils] [MainThread] [INFO]: (41, bytearray(b'2,3,6,7,15,26'), bytearray(b'12'))
+[2021-03-09 11:42:38,229] [MySqlUtils] [MainThread] [INFO]: (42, bytearray(b'1,5,7,8,16,33'), bytearray(b'1'))
+[2021-03-09 11:42:38,229] [MySqlUtils] [MainThread] [INFO]: (43, bytearray(b'3,15,20,27,31,32'), bytearray(b'14'))
+[2021-03-09 11:42:38,229] [MySqlUtils] [MainThread] [INFO]: (44, bytearray(b'7,15,17,21,31,32'), bytearray(b'13'))
+[2021-03-09 11:42:38,229] [MySqlUtils] [MainThread] [INFO]: (45, bytearray(b'1,3,12,13,25,30'), bytearray(b'1'))
+[2021-03-09 11:42:38,230] [MySqlUtils] [MainThread] [INFO]: (46, bytearray(b'1,7,22,24,25,32'), bytearray(b'8'))
+[2021-03-09 11:42:38,230] [MySqlUtils] [MainThread] [INFO]: (47, bytearray(b'7,8,18,19,20,28'), bytearray(b'7'))
+[2021-03-09 11:42:38,230] [MySqlUtils] [MainThread] [INFO]: (48, bytearray(b'3,6,27,28,29,31'), bytearray(b'16'))
+[2021-03-09 11:42:38,230] [CommonUtils] [MainThread] [INFO]: 4.检查彩票中奖情况(子方法)
+[2021-03-09 11:42:38,230] [CommonUtils] [MainThread] [INFO]: 检查结果：13	1	{'28'}	0	set()	未中奖
+[2021-03-09 11:42:38,230] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:38,231] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (13, 18, '28', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:39,190] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:39,191] [CommonUtils] [MainThread] [INFO]: 检查结果：14	2	{'22', '28'}	0	set()	未中奖
+[2021-03-09 11:42:39,191] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:39,191] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (14, 18, '22,28', 2, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:40,150] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:40,150] [CommonUtils] [MainThread] [INFO]: 检查结果：15	0	set()	0	set()	未中奖
+[2021-03-09 11:42:40,151] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:40,151] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (15, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:41,100] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:41,100] [CommonUtils] [MainThread] [INFO]: 检查结果：16	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:42:41,101] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:41,101] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (16, 18, '23', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:42,061] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:42,061] [CommonUtils] [MainThread] [INFO]: 检查结果：17	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:42:42,061] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:42,062] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (17, 18, '21', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:43,020] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:43,020] [CommonUtils] [MainThread] [INFO]: 检查结果：18	0	set()	0	set()	未中奖
+[2021-03-09 11:42:43,020] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:43,020] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (18, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:43,980] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:43,981] [CommonUtils] [MainThread] [INFO]: 检查结果：19	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:42:43,981] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:43,981] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (19, 18, '23', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:45,000] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:45,001] [CommonUtils] [MainThread] [INFO]: 检查结果：20	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:42:45,001] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:45,001] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (20, 18, '23', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:45,960] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:45,960] [CommonUtils] [MainThread] [INFO]: 检查结果：21	1	{'28'}	0	set()	未中奖
+[2021-03-09 11:42:45,960] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:45,960] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (21, 18, '28', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:46,950] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:46,950] [CommonUtils] [MainThread] [INFO]: 检查结果：22	2	{'27', '23'}	0	set()	未中奖
+[2021-03-09 11:42:46,950] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:46,950] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (22, 18, '27,23', 2, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:47,900] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:47,900] [CommonUtils] [MainThread] [INFO]: 检查结果：23	2	{'21', '22'}	0	set()	未中奖
+[2021-03-09 11:42:47,901] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:47,901] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (23, 18, '21,22', 2, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:48,860] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:48,861] [CommonUtils] [MainThread] [INFO]: 检查结果：24	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:42:48,862] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:48,863] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (24, 18, '21', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:49,830] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:49,830] [CommonUtils] [MainThread] [INFO]: 检查结果：25	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:42:49,830] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:49,831] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (25, 18, '21', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:50,781] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:50,781] [CommonUtils] [MainThread] [INFO]: 检查结果：26	3	{'23', '27', '28'}	0	set()	未中奖
+[2021-03-09 11:42:50,782] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:50,782] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (26, 18, '23,27,28', 3, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:51,860] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:51,861] [CommonUtils] [MainThread] [INFO]: 检查结果：27	0	set()	0	set()	未中奖
+[2021-03-09 11:42:51,862] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:51,863] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (27, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:52,830] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:52,830] [CommonUtils] [MainThread] [INFO]: 检查结果：28	2	{'21', '27'}	0	set()	未中奖
+[2021-03-09 11:42:52,831] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:52,831] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (28, 18, '21,27', 2, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:53,780] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:53,781] [CommonUtils] [MainThread] [INFO]: 检查结果：29	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:42:53,781] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:53,782] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (29, 18, '21', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:54,740] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:54,741] [CommonUtils] [MainThread] [INFO]: 检查结果：30	3	{'21', '23', '28'}	0	set()	未中奖
+[2021-03-09 11:42:54,741] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:54,741] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (30, 18, '21,23,28', 3, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:55,700] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:55,701] [CommonUtils] [MainThread] [INFO]: 检查结果：31	1	{'27'}	0	set()	未中奖
+[2021-03-09 11:42:55,701] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:55,701] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (31, 18, '27', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:56,665] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:56,666] [CommonUtils] [MainThread] [INFO]: 检查结果：32	0	set()	0	set()	未中奖
+[2021-03-09 11:42:56,667] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:56,667] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (32, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:57,621] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:57,622] [CommonUtils] [MainThread] [INFO]: 检查结果：33	0	set()	0	set()	未中奖
+[2021-03-09 11:42:57,622] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:57,622] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (33, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:58,581] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:58,581] [CommonUtils] [MainThread] [INFO]: 检查结果：34	0	set()	0	set()	未中奖
+[2021-03-09 11:42:58,582] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:58,582] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (34, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:42:59,540] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:42:59,541] [CommonUtils] [MainThread] [INFO]: 检查结果：35	1	{'22'}	0	set()	未中奖
+[2021-03-09 11:42:59,541] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:42:59,541] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (35, 18, '22', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:00,540] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:00,541] [CommonUtils] [MainThread] [INFO]: 检查结果：36	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:43:00,541] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:00,541] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (36, 18, '21', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:01,501] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:01,504] [CommonUtils] [MainThread] [INFO]: 检查结果：37	2	{'22', '27'}	0	set()	未中奖
+[2021-03-09 11:43:01,505] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:01,506] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (37, 18, '22,27', 2, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:02,460] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:02,461] [CommonUtils] [MainThread] [INFO]: 检查结果：38	1	{'28'}	0	set()	未中奖
+[2021-03-09 11:43:02,461] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:02,461] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (38, 18, '28', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:03,420] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:03,420] [CommonUtils] [MainThread] [INFO]: 检查结果：39	1	{'23'}	0	set()	未中奖
+[2021-03-09 11:43:03,421] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:03,421] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (39, 18, '23', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:04,380] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:04,380] [CommonUtils] [MainThread] [INFO]: 检查结果：40	2	{'22', '23'}	0	set()	未中奖
+[2021-03-09 11:43:04,380] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:04,381] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (40, 18, '22,23', 2, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:05,341] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:05,341] [CommonUtils] [MainThread] [INFO]: 检查结果：41	0	set()	0	set()	未中奖
+[2021-03-09 11:43:05,342] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:05,342] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (41, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:06,340] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:06,340] [CommonUtils] [MainThread] [INFO]: 检查结果：42	0	set()	0	set()	未中奖
+[2021-03-09 11:43:06,341] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:06,341] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (42, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:07,300] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:07,300] [CommonUtils] [MainThread] [INFO]: 检查结果：43	1	{'27'}	0	set()	未中奖
+[2021-03-09 11:43:07,301] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:07,301] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (43, 18, '27', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:08,260] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:08,260] [CommonUtils] [MainThread] [INFO]: 检查结果：44	1	{'21'}	0	set()	未中奖
+[2021-03-09 11:43:08,261] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:08,262] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (44, 18, '21', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:09,220] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:09,221] [CommonUtils] [MainThread] [INFO]: 检查结果：45	0	set()	0	set()	未中奖
+[2021-03-09 11:43:09,221] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:09,221] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (45, 18, '', 0, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:10,180] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:10,181] [CommonUtils] [MainThread] [INFO]: 检查结果：46	1	{'22'}	0	set()	未中奖
+[2021-03-09 11:43:10,181] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:10,181] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (46, 18, '22', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:11,140] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:11,140] [CommonUtils] [MainThread] [INFO]: 检查结果：47	1	{'28'}	0	set()	未中奖
+[2021-03-09 11:43:11,141] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:11,141] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (47, 18, '28', 1, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:12,140] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:12,141] [CommonUtils] [MainThread] [INFO]: 检查结果：48	2	{'27', '28'}	0	set()	未中奖
+[2021-03-09 11:43:12,141] [CommonUtils] [MainThread] [INFO]: 将检查结果写入数据库
+[2021-03-09 11:43:12,141] [MySqlUtils] [MainThread] [INFO]: exec sql is: insert into two_color_ball_res (tcb_id, tcbli_id, red_check_seq, red_check_seq_len, blue_check_seq, blue_check_seq_len, jackpot_level, create_time) values(%s, %s, %s, %s, %s, %s, %s, %s), val is: (48, 18, '27,28', 2, '', 0, '未中奖', '2021-03-09 11:42:34')
+[2021-03-09 11:43:13,100] [MySqlUtils] [MainThread] [INFO]: 1条记录插入成功。
+[2021-03-09 11:43:13,233] [CommonUtils] [MainThread] [INFO]: 邮件发送成功
+[2021-03-09 11:43:13,234] [CommonUtils] [MainThread] [INFO]: 结束：检查彩票中奖情况
+[2021-03-09 11:49:43,251] [main] [MainThread] [INFO]: 程序启动
+[2021-03-09 11:49:43,252] [main] [MainThread] [INFO]: 开始：每周二、周四、周日0:00生成双色球号码
+[2021-03-09 11:51:35,608] [main] [MainThread] [INFO]: 程序启动
+[2021-03-09 11:51:35,609] [main] [MainThread] [INFO]: 添加定时任务：每周二、周四、周日0:00生成双色球号码
+[2021-03-09 11:51:35,735] [main] [MainThread] [INFO]: 添加定时任务：每周二、周四、周日22:00检查彩票中奖情况
+[2021-03-09 11:51:35,736] [main] [MainThread] [INFO]: 定时任务启动
